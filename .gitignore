@@ -1,0 +1,12 @@
+#ignor elogd
+logs
+*.logs
+#node modules
+frontend/node_modules/
+backend/node_modules/
+
+#environent variable
+frontend/.env
+backend/.env
+#igone ds.store file
+.DS_Store

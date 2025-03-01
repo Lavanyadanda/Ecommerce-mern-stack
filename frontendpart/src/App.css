@@ -1,0 +1,12 @@
+/* body{
+    margin: 0;
+    padding: 0;
+} */
+
+.product-image {
+    background-image: url("https://via.placeholder.com/300");
+  }
+  
+  .product-image img {
+    display: block;
+  }

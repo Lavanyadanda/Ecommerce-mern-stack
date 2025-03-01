@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "reselect": "^5.1.1",
+    "sonner": "^2.0.1"
+  }
+}
